@@ -1,7 +1,7 @@
 PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/gee/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
-vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
+    vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
     vendor/lge/gee/proprietary/lib/libchromatix_imx111_default_video.so:system/lib/libchromatix_imx111_default_video.so \
     vendor/lge/gee/proprietary/lib/libchromatix_imx111_preview.so:system/lib/libchromatix_imx111_preview.so \
     vendor/lge/gee/proprietary/lib/libchromatix_imx111_zsl.so:system/lib/libchromatix_imx111_zsl.so \
@@ -30,4 +30,15 @@ vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af
     vendor/lge/gee/proprietary/vendor/firmware/wcnss.b02:system/vendor/firmware/wcnss.b02 \
     vendor/lge/gee/proprietary/vendor/firmware/wcnss.b04:system/vendor/firmware/wcnss.b04 \
     vendor/lge/gee/proprietary/vendor/firmware/wcnss.b05:system/vendor/firmware/wcnss.b05 \
-    vendor/lge/gee/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt
+    vendor/lge/gee/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt \
+    vendor/lge/gee/proprietary/lib/libmercury.so:system/lib/libmercury.so \
+    vendor/lge/gee/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
+	vendor/lge/gee/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
+	vendor/lge/gee/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
+	vendor/lge/gee/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+	vendor/lge/gee/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+	vendor/lge/gee/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
+	vendor/lge/gee/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
+	vendor/lge/gee/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
+	vendor/lge/gee/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
+	vendor/lge/gee/proprietary/lib/libgemini.so:system/lib/libgemini.so \
