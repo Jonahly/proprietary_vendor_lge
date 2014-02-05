@@ -6,7 +6,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/gee/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/gee/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so
+    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/gee/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/gee/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
