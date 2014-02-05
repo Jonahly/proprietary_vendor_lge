@@ -7,6 +7,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/gee/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/gee/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
+    vendor/lge/gee/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/lge/gee/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/gee/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
