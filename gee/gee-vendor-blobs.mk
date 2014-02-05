@@ -33,12 +33,20 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt \
     vendor/lge/gee/proprietary/lib/libmercury.so:system/lib/libmercury.so \
     vendor/lge/gee/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
-	vendor/lge/gee/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
-	vendor/lge/gee/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
-	vendor/lge/gee/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-	vendor/lge/gee/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-	vendor/lge/gee/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
-	vendor/lge/gee/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
-	vendor/lge/gee/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
-	vendor/lge/gee/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
-	vendor/lge/gee/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+    vendor/lge/gee/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
+    vendor/lge/gee/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
+    vendor/lge/gee/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+    vendor/lge/gee/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/lge/gee/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
+    vendor/lge/gee/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
+    vendor/lge/gee/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
+    vendor/lge/gee/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
+    vendor/lge/gee/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+    vendor/lge/gee/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
+    vendor/lge/gee/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
+    vendor/lge/gee/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
+    vendor/lge/gee/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lge/gee/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/gee/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/lge/gee/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
