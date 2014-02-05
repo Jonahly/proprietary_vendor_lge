@@ -49,4 +49,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/gee/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/gee/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so
