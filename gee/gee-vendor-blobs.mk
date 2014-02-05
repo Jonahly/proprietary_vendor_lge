@@ -1,4 +1,12 @@
 PRODUCT_COPY_FILES += \
+    vendor/lge/gee/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
+    vendor/lge/gee/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
+    vendor/lge/gee/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
+    vendor/lge/gee/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lge/gee/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/gee/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/lge/gee/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so
     vendor/lge/gee/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/gee/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
@@ -41,12 +49,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
     vendor/lge/gee/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
     vendor/lge/gee/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
-    vendor/lge/gee/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-    vendor/lge/gee/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
-    vendor/lge/gee/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
-    vendor/lge/gee/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
-    vendor/lge/gee/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/lge/gee/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/lge/gee/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/lge/gee/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lge/gee/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so
+    vendor/lge/gee/proprietary/lib/libgemini.so:system/lib/libgemini.so
